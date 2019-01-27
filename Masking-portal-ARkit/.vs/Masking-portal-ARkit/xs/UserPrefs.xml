@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5A858747-F49D-F750-DA30-A09007E14837}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Ji Young/script/weatherData.cs">
+    <Files>
+      <File FileName="Assets/lookat.cs" Line="9" Column="20" />
+      <File FileName="Assets/moving_script.cs" Line="33" Column="10" />
+      <File FileName="Assets/fix_position.cs" Line="32" Column="44" />
+      <File FileName="Assets/Ji Young/script/weatherData.cs" Line="222" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
