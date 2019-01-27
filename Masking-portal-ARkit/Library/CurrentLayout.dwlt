@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1680
     height: 1005
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -106,10 +106,10 @@ MonoBehaviour:
     y: 30
     width: 1680
     height: 955
-  m_MinSize: {x: 881, y: 492}
-  m_MaxSize: {x: 16006, y: 14042}
+  m_MinSize: {x: 887, y: 492}
+  m_MaxSize: {x: 16012, y: 14042}
   vertical: 0
-  controlID: 3217
+  controlID: 68
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,10 +130,10 @@ MonoBehaviour:
     y: 0
     width: 1281
     height: 955
-  m_MinSize: {x: 604, y: 492}
-  m_MaxSize: {x: 12004, y: 14042}
+  m_MinSize: {x: 610, y: 492}
+  m_MaxSize: {x: 12010, y: 14042}
   vertical: 1
-  controlID: 3218
+  controlID: 69
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,10 +155,10 @@ MonoBehaviour:
     y: 0
     width: 1281
     height: 634
-  m_MinSize: {x: 604, y: 221}
-  m_MaxSize: {x: 12004, y: 4021}
+  m_MinSize: {x: 610, y: 221}
+  m_MaxSize: {x: 12010, y: 4021}
   vertical: 0
-  controlID: 3219
+  controlID: 70
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -177,8 +177,8 @@ MonoBehaviour:
     y: 0
     width: 258
     height: 634
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -395,9 +395,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: beaa0100
-    m_LastClickedID: 109246
-    m_ExpandedIDs: e66dd7ffc86ed7ff9a71d7ff6089d7ff428ad7ff108dd7ff244fd8ff7250d8ff1658d8ffdc71d8ffbe72d8ff8c75d8ffbcb8ddff9eb9ddff70bcddff7ee8ddff2ae9ddfffcebddffacfdddff62cedfff8ecfdfff527de0ff327ee0ff0481e0ff2490e0ff0491e0ffd693e0ff8ca0e0fffea4e0ff08f7e0ff34f8e0ff3e18e1ff1e19e1ffe61ee1ff1656e2ff2056e2ff4c57e2ff3e74e2ff2275e2fff077e2ff90cde2ff50fae2ff30fbe2fff800e3ff981be3ffc41ce3ff0efae3ffeefae3ffbcfde3ffa204e4ff5a2ee4ff862fe4ffdcc8e4ffa0c9e4ff6ecce4ff4e51e5ff3052e5ff0255e5ff325ae5ff125ee5ff1231e6ff3e32e6ffbee2e6ff9ee3e6ff70e6e6ff12f5e6ff3ef6e6ffa666e8ffca66e8ff2267e8fff49de9ffd49ee9ffa2a1e9ffc678eaffa679eaff627feaff4aa3eaff14a4eaff16a4eaff42a5eaff2831eeff2e31eeff3631eeff6831eeff8c31eeffbc31eeff9438eeffd226f3ff6efdf6ff2efef6fffc00f7ff229ef8ffe2edf8ff3cf7f9ff5a27faff1a45fafff060faffc461faffc47dfaffca81feffd281feff3882feff8282feffa682feffa882feff36c5feff1ec6fefff0c8feff7c05ffff20beffff04c7ffff92cdffff40f6ffff42f6ffffe4fbffff00000000b6360000184b0000fe9200000ab50000b2c40000eec40000c8da000080e30000e405010014150100ea2c01002474010082850100fe85010078870100aa97010032ac0100
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -484,7 +484,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.048499044, y: 0.058397613, z: 0.002837703, w: 0.99711347}
     speed: 2
-    m_Value: {x: -0.048498906, y: 0.058397446, z: 0.002837695, w: 0.9971106}
+    m_Value: {x: 0.048499048, y: -0.058397613, z: -0.002837703, w: -0.9971135}
   m_Size:
     m_Target: 6.3829117
     speed: 2
@@ -604,20 +604,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/prefabs
+  - Assets
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: /Users/itayniv/Documents/ITP/Reality_virtually/Masking-portal-ARkit
+  m_LastProjectPath: /Users/itayniv/Documents/ITP/Reality_virtually/reality-virtually-weather-window/Masking-portal-ARkit
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 73}
-    m_SelectedIDs: 60300000
-    m_LastClickedID: 12384
-    m_ExpandedIDs: 00000000842c000000ca9a3b
+    scrollPos: {x: 0, y: 57}
+    m_SelectedIDs: 862c0000
+    m_LastClickedID: 11398
+    m_ExpandedIDs: 00000000862c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -645,7 +645,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000842c0000ec2f000000ca9a3b
+    m_ExpandedIDs: 00000000862c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
